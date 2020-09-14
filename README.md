@@ -1,38 +1,39 @@
 # サーバレッスン
 Linuxプラクティス
------------------
-ls
-ls -a
-ls -l
+***
+# linux command
+- ls
+  - ls -a
+  - ls -l
 
-pwd
+- pwd
 
-cd
-cd ~
-cd /
-cd .
-cd ..
-cd ../../
+- cd
+  - cd ~
+  - cd /
+  - cd .
+  - cd ..
+  -cd ../../
 
-mkdir
-mkdir -p
+- mkdir
+  - mkdir -p
 
-touch
+- touch
 
-&&
+- &&
 
-cp
-cp -r
+- cp
+  - cp -r
 
-mv
+- mv
 
-rm
-rm -r
-rm -rf
+- rm
+  - rm -r
+  - rm -rf
 
-*
-?
->
->>
-cat
-vi
+- *
+- ?
+- \>
+- \>>
+- cat
+- vi
